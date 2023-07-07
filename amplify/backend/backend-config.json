@@ -1,0 +1,9 @@
+{
+  "function": {
+    "12916layeredeceafa": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "LambdaLayer"
+    }
+  }
+}
