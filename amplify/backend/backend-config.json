@@ -6,22 +6,11 @@
       "service": "LambdaLayer"
     }
   },
-  "parameters": {
-    "AMPLIFY_function_12916layeredeceafa_deploymentBucketName": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "12916layeredeceafa"
-        }
-      ]
-    },
-    "AMPLIFY_function_12916layeredeceafa_s3Key": {
-      "usedBy": [
-        {
-          "category": "function",
-          "resourceName": "12916layeredeceafa"
-        }
-      ]
+  "hosting": {
+    "amplifyhosting": {
+      "lastPushTimeStamp": "2023-07-07T22:06:48.123Z",
+      "service": "amplifyhosting",
+      "type": "cicd"
     }
   }
 }
