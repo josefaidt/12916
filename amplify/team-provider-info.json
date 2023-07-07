@@ -17,6 +17,12 @@
           "deploymentBucketName": "amplify-12916-dev-145925-deployment",
           "s3Key": "amplify-builds/12916layeredeceafa-LambdaLayerVersiona67e94b6-build.zip"
         }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3p8tnc0m8ypyc",
+          "type": "cicd"
+        }
       }
     }
   }

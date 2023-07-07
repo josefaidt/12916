@@ -12,5 +12,39 @@
       "service": "amplifyhosting",
       "type": "cicd"
     }
+  },
+  "parameters": {
+    "AMPLIFY_function_12916layeredeceafa_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "12916layeredeceafa"
+        }
+      ]
+    },
+    "AMPLIFY_function_12916layeredeceafa_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "12916layeredeceafa"
+        }
+      ]
+    },
+    "AMPLIFY_hosting_amplifyhosting_appId": {
+      "usedBy": [
+        {
+          "category": "hosting",
+          "resourceName": "amplifyhosting"
+        }
+      ]
+    },
+    "AMPLIFY_hosting_amplifyhosting_type": {
+      "usedBy": [
+        {
+          "category": "hosting",
+          "resourceName": "amplifyhosting"
+        }
+      ]
+    }
   }
 }
