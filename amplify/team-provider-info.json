@@ -10,6 +10,14 @@
       "StackName": "amplify-12916-dev-145925",
       "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-12916-dev-145925/8ae2e840-1d11-11ee-a5de-0e91a378eda1",
       "AmplifyAppId": "d3p8tnc0m8ypyc"
+    },
+    "categories": {
+      "function": {
+        "12916layeredeceafa": {
+          "deploymentBucketName": "amplify-12916-dev-145925-deployment",
+          "s3Key": "amplify-builds/12916layeredeceafa-LambdaLayerVersiona67e94b6-build.zip"
+        }
+      }
     }
   }
 }

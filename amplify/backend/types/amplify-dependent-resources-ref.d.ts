@@ -1,1 +1,7 @@
-export type AmplifyDependentResourcesAttributes = {}
+export type AmplifyDependentResourcesAttributes = {
+  "function": {
+    "12916layeredeceafa": {
+      "Arn": "string"
+    }
+  }
+}
