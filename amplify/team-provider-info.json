@@ -15,7 +15,7 @@
       "function": {
         "12916layeredeceafa": {
           "deploymentBucketName": "amplify-12916-dev-145925-deployment",
-          "s3Key": "amplify-builds/12916layeredeceafa-LambdaLayerVersiona67e94b6-build.zip"
+          "s3Key": "amplify-builds/12916layeredeceafa-LambdaLayerVersionb5f2740c-build.zip"
         }
       },
       "hosting": {
